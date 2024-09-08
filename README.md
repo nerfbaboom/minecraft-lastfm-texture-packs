@@ -26,5 +26,10 @@ pip install requests pillow colorthief
 
 You will need a Last.fm API key to fetch the top albums. You can get an API key by signing up for a Last.fm account and registering for API access here.
 
-Once you have your API key, add it to the script.
+Once you have your API key, add it to the script at
+```
+API_KEY = 'API_KEY'
+```
+
+
 
