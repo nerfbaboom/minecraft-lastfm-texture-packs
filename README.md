@@ -19,9 +19,9 @@ This script replaces Minecraft block textures in a resource pack with the album 
 
 ### Install dependencies
 You can install the required libraries by running:
-
+```bash
 pip install requests pillow colorthief
-
+```
 ## Last.fm API Key
 
 You will need a Last.fm API key to fetch the top albums. You can get an API key by signing up for a Last.fm account and registering for API access here.
